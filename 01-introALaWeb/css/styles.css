@@ -1,0 +1,8 @@
+body{
+    padding: 10px;
+}
+header,main, footer{
+    border: 1px solid #000
+    height: 100px;
+    margin:10px;
+}

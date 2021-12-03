@@ -1,0 +1,20 @@
+body{
+
+}
+header{
+    background-color: rgb(173, 98, 98);
+    height: 50px;
+}
+aside{
+    background-color: darkolivegreen;
+    height: 50px;
+}
+main{
+    background-color: darkorchid;
+    height: 50px;
+    width: 100px;
+}
+footer{
+    background-color: darkslategrey;
+    height: 50px;
+}
