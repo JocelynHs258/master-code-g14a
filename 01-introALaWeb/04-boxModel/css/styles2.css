@@ -1,0 +1,26 @@
+body{margin: 0%;
+
+}
+header{
+    background-color: rgb(234, 172, 240);
+    height: 10vh;
+}
+aside{width: 20%;
+    background-color: rgb(186, 212, 140);
+    float: left;
+    height: 80vh;
+}
+main{
+    background-color: rgb(241, 185, 138);
+    float: right;
+    height: 80vh;
+    width: 80%;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: darkslategrey;
+    bottom: 0;
+    height: 10vh;
+    width: 100%;
+}
