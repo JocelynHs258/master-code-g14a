@@ -1,0 +1,29 @@
+body{
+    font-family: "font-family: 'Meow Script', cursive;
+    font-family: 'Quicksand', sans-serif;";
+    font-size: 18px;
+    margin: 0%;
+}
+header{
+    background-color: rgb(245, 151, 151);
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em;
+}
+h1, nav{
+    display: inline-block;
+}
+h1, nav a{
+    color: cornsilk;
+h1{
+    font-size: 1.2rem;
+    margin: 0%;
+}
+nav a{
+    display: flex;
+    align-self: center;
+    
+    font-size: 0.6rem;
+    text-decoration: cyan;
+    width: 50%;
+}
